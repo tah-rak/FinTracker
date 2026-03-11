@@ -1,11 +1,9 @@
 # 💰 FinTrack – Personal Expense Tracker with Budget & AI Insights
 
-![FinTrack Badge](https://img.shields.io/badge/FinTrack-Personal%20Finance%20Manager-green?style=for-the-badge)
-[![Made with Bolt](https://img.shields.io/badge/Made%20with-Bolt.new-blueviolet?style=for-the-badge&logo=thunder)](https://bolt.new)
+
 
 A modern full-stack personal finance tracker that helps users manage their income, expenses, and budgets — with intelligent insights and visual dashboards.
 
-🌐 **Live Demo**: [https://fintrk.netlify.app/](https://fintrk.netlify.app/)
 
 ---
 
@@ -142,10 +140,6 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 
 ---
 
-## 🧑‍💻 Author
-
-**Ravi Vishwakarma**  
-[GitHub](https://github.com/Ravik27280) | [LinkedIn](https://www.linkedin.com/in/ravi-vishwakarma27280)
 
 ---
 
