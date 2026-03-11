@@ -51,11 +51,6 @@ A modern full-stack personal finance tracker that helps users manage their incom
 ### 🧠 AI Insights (Coming Soon)
 <img src="https://github.com/Ravik27280/FinTrack/blob/main/Insights.png" width="100%" />
 
----
-
-![bolt](https://github.com/Ravik27280/FinTrack/blob/main/black_circle_360x360.png)
-
----
 
 ## 🧪 Getting StartedMore actions
 
