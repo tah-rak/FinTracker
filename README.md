@@ -12,7 +12,7 @@ A modern full-stack personal finance tracker that helps users manage their incom
 - 📊 **Dashboard Overview** – View weekly, monthly, and yearly expense trends.
 - 💸 **Transaction Management** – Add, edit, and delete categorized income/expenses.
 - 🎯 **Budgets & Goals** – Set budgets by category and monitor progress toward savings goals.
-- 🧠 **AI Insights (Coming Soon)** – Personalized suggestions based on spending patterns.
+- 🧠 **AI Insights** – Personalized suggestions based on spending patterns.
 - 🔔 **Budget Alerts** – Get notified when you exceed your budget limits.
 - 🔐 **User Authentication** – Secure login/signup system with role-based access.
 - 🌈 **Responsive UI** – Built using Tailwind CSS and React for a modern feel.
